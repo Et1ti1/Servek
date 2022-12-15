@@ -1,2 +1,3 @@
 # Servek
-Script de brute force 
+Servek e um script que agiliza um brute force com 
+o hydra
