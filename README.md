@@ -1,2 +1,3 @@
 # Servek
-O servek e
+O servek e um script que agiliza o bruteforce com
+O hydra 
