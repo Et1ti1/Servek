@@ -1,2 +1,2 @@
 # Servek
-Script de brute force 
+O servek e
