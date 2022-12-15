@@ -30,8 +30,8 @@ read -p "serviço : " serve
 echo "espere.."
 echo "                                              "
 echo "                                              "
-hydra -l $use -p $pass $alvo $serve
-hydra -L $wors -P $word $alvo $serve
+hydra -l $use -p $pass $alvo $serve -v
+hydra -L $wors -P $word $alvo $serve -v
 echo "                                               "
 read -p "Deseja Voltar ao Menu anterior y/n : " sec
 if [ $sec = "y" ];
