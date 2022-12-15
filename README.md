@@ -5,9 +5,14 @@ O hydra
 Instalaçao 
 
 apt upgrade && apt update 
+
 apt install git
+
 cd $HOME
+
 git clone https://github.com/Et1ti1/Servek
+
 cd Servek
+
 bash install.sh
 
