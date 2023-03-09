@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#Script Created By Henry
+#Script Created By Shell script 
 clear
 apt install toilet
 clear
-if toilet Brute x_x; then echo "Created By Henry"; fi
+if toilet Brute x_x; then echo "Created By Shell script"; fi
 echo "                                                 "
 echo "     1:Começa ataque                             "
 echo "     2:Sair                                      "
